@@ -1,0 +1,2 @@
+# EmailSender-Back
+ .NetCore
